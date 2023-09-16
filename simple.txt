@@ -1,0 +1,5 @@
+Those, who obtain in between 3.0 and 3.5 pased simply
+
+Roll	Name	CGPA
+16		sakib		3.40
+16		juba		3.30

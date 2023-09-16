@@ -1,0 +1,5 @@
+Those, who obtain below 3.0 will receive punishment
+
+Roll	Name	CGPA
+10		atik		2.90
+9		yousuf		2.70

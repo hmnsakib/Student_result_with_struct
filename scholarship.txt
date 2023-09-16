@@ -1,0 +1,5 @@
+Those, who obtain 3.5 or above will get a scholarship
+
+Roll	Name	CGPA
+12		mithun		3.80
+36		jasim		3.50
